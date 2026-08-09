@@ -50,4 +50,4 @@ Based in Northampton, UK.
 
 - Website: [tailwaggingwebdesign.com](https://tailwaggingwebdesign.com/)
 - X: [@Woeinvests](https://x.com/Woeinvests)
-- LinkedIn: [Ayobami Haastrup](https://www.linkedin.com/in/ayobami-j-haastrup/)
+- LinkedIn: [John Haastrup](https://www.linkedin.com/in/john-haastrup/)
