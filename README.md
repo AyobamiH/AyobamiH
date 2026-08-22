@@ -23,10 +23,16 @@ A TypeScript system for authorised repository changes with exactly-once executio
 ### [Tax Lien Intelligence Platform](https://github.com/AyobamiH/tax-lien-intelligence-platform)
 A multi-tenant SaaS for turning county parcel and tax-lien data into structured investment decisions, with authenticated workflows, explainable scoring, approvals, collaboration, and operational review surfaces.
 
-## Open source
+### Open source
 
-Recent contribution: [Playwright end-to-end coverage for CodeReel](https://github.com/eddiejaoude/CodeReel/pull/16), covering critical editor, multi-step, and export user journeys.
+Recent merged contributions:
 
+- [Reticle #474](https://github.com/reticlehq/reticle/pull/474) — Added regression coverage for a destructive benchmark safety guard, exercising the real CLI in an isolated Git repository.
+- [Reticle #485](https://github.com/reticlehq/reticle/pull/485) — Hardened the benchmark test harness for hermetic Git execution and cross-platform reliability.
+- [StudyMap #185](https://github.com/StudentSuite/StudyMap/pull/185) — Added unit-test CI gating and deterministic scheduled data-freshness verification.
+- [StudyMap #186](https://github.com/StudentSuite/StudyMap/pull/186) — Hardened authentication redirects against off-site navigation with shared sanitization and adversarial tests.
+- [StudyMap #187](https://github.com/StudentSuite/StudyMap/pull/187) — Hardened service-worker cache lifecycle, cache ownership, deployment versioning, and concurrent tile-cache limits.
+- 
 ## Engineering interests
 
 - Agent orchestration and autonomous workflows
