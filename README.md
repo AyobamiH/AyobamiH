@@ -67,20 +67,11 @@ My upstream work spans developer tooling, test infrastructure, security hardenin
 - [eddiejaoude/ai-prompts #5](https://github.com/eddiejaoude/ai-prompts/pull/5) - Evidence-first live diagnostic and repair prompt.
 - [eddiejaoude/ai-prompts #4](https://github.com/eddiejaoude/ai-prompts/pull/4) - Signed agent-action receipts prompt.
 - [eddiejaoude/ai-prompts #3](https://github.com/eddiejaoude/ai-prompts/pull/3) - Graph-native agent-system migration prompt.
-- [100devs/binary-upload-boom #640](https://github.com/100devs/binary-upload-boom/pull/640) - Testing contribution.
-- [100devs/binary-upload-boom #553](https://github.com/100devs/binary-upload-boom/pull/553) - Commenting contribution.
 
 <details>
-<summary>Earlier submitted upstream PRs</summary>
-
-These PRs are part of my contribution history but are closed without merge.
+<summary>Earlier submitted upstream engineering PRs</summary>
 
 - [pydantic/pydantic-ai-harness #682](https://github.com/pydantic/pydantic-ai-harness/pull/682) - Stream summary requests in `SummarizingCompaction`.
-- [firstcontributions/first-contributions #48594](https://github.com/firstcontributions/first-contributions/pull/48594) - Nigerian Pidgin translation contribution.
-- [100devs/youtube-timecodes #37](https://github.com/100devs/youtube-timecodes/pull/37) - Timecode contribution.
-- [mdn/content #20512](https://github.com/mdn/content/pull/20512) - Documentation text change.
-- [mdn/content #20508](https://github.com/mdn/content/pull/20508) - Documentation update.
-- [mdn/content #20501](https://github.com/mdn/content/pull/20501) - Documentation update.
 
 </details>
 
